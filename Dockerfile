@@ -1,2 +1,2 @@
 FROM busybox:latest
-MAINTAINER Romin Irani (email@domain.com)
+MAINTAINER Sriram S
